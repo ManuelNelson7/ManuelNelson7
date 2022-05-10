@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [bacall-store](https://github.com/ManuelNelson7/bacall-store)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Sanity.io**
 
 - 💬 Ask me about **react, tailwindcss, javascript**
 
