@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [bacall-store](https://github.com/ManuelNelson7/bacall-store)
+- 🔭 I’m currently working on [CryptoMarket](https://github.com/ManuelNelson7/cryptomarket)
 
-- 🌱 I’m currently learning **Sanity.io**
+- 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **react, tailwindcss, javascript**
 
